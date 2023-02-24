@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoneGame2_1140", "StoneGam
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircularPermutation_1238", "CircularPermutation_1238\CircularPermutation_1238.csproj", "{C4C0635F-FD37-402F-AFEA-CCE4ED608847}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumOperations_2357", "MinimumOperations_2357\MinimumOperations_2357.csproj", "{A5EEF87E-BE05-4611-BE28-2BCE33DDB9DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{C4C0635F-FD37-402F-AFEA-CCE4ED608847}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4C0635F-FD37-402F-AFEA-CCE4ED608847}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4C0635F-FD37-402F-AFEA-CCE4ED608847}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5EEF87E-BE05-4611-BE28-2BCE33DDB9DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5EEF87E-BE05-4611-BE28-2BCE33DDB9DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5EEF87E-BE05-4611-BE28-2BCE33DDB9DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5EEF87E-BE05-4611-BE28-2BCE33DDB9DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
