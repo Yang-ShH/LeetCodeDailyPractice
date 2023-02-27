@@ -7,11 +7,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BestHand_2347", "BestHand_2
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinTaps_1326", "MinTaps_1326\MinTaps_1326.csproj", "{878A2249-E527-4B28-A5BE-0B5552E27154}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoneGame2_1140", "StoneGame2_1140\StoneGame2_1140.csproj", "{3CC96209-D74E-4F4F-B36B-AA587E668FD8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StoneGame2_1140", "StoneGame2_1140\StoneGame2_1140.csproj", "{3CC96209-D74E-4F4F-B36B-AA587E668FD8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircularPermutation_1238", "CircularPermutation_1238\CircularPermutation_1238.csproj", "{C4C0635F-FD37-402F-AFEA-CCE4ED608847}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CircularPermutation_1238", "CircularPermutation_1238\CircularPermutation_1238.csproj", "{C4C0635F-FD37-402F-AFEA-CCE4ED608847}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumOperations_2357", "MinimumOperations_2357\MinimumOperations_2357.csproj", "{A5EEF87E-BE05-4611-BE28-2BCE33DDB9DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinimumOperations_2357", "MinimumOperations_2357\MinimumOperations_2357.csproj", "{A5EEF87E-BE05-4611-BE28-2BCE33DDB9DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovesToMakeZigzag_1144", "MovesToMakeZigzag_1144\MovesToMakeZigzag_1144.csproj", "{364229A4-201D-42DB-BFC6-1FE733CC1455}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{A5EEF87E-BE05-4611-BE28-2BCE33DDB9DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A5EEF87E-BE05-4611-BE28-2BCE33DDB9DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A5EEF87E-BE05-4611-BE28-2BCE33DDB9DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{364229A4-201D-42DB-BFC6-1FE733CC1455}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{364229A4-201D-42DB-BFC6-1FE733CC1455}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{364229A4-201D-42DB-BFC6-1FE733CC1455}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{364229A4-201D-42DB-BFC6-1FE733CC1455}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
