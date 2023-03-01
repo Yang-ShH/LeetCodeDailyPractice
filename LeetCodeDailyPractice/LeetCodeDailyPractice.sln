@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovesToMakeZigzag_1144", "M
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeSimilarItems_2363", "MergeSimilarItems_2363\MergeSimilarItems_2363.csproj", "{60425CBE-3612-446A-88B2-7ECACE1FF342}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LargestLocal_2373", "LargestLocal_2373\LargestLocal_2373.csproj", "{6826CFA2-3A16-4B96-974C-A9C4215A20C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{60425CBE-3612-446A-88B2-7ECACE1FF342}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{60425CBE-3612-446A-88B2-7ECACE1FF342}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{60425CBE-3612-446A-88B2-7ECACE1FF342}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6826CFA2-3A16-4B96-974C-A9C4215A20C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6826CFA2-3A16-4B96-974C-A9C4215A20C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6826CFA2-3A16-4B96-974C-A9C4215A20C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6826CFA2-3A16-4B96-974C-A9C4215A20C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
