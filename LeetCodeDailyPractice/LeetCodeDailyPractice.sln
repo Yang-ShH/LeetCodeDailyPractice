@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeSimilarItems_2363", "M
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LargestLocal_2373", "LargestLocal_2373\LargestLocal_2373.csproj", "{6826CFA2-3A16-4B96-974C-A9C4215A20C9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintBin_Interview0520", "PrintBin_Interview0520\PrintBin_Interview0520.csproj", "{611ED461-1A34-40A8-B892-2429D68B685C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{6826CFA2-3A16-4B96-974C-A9C4215A20C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6826CFA2-3A16-4B96-974C-A9C4215A20C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6826CFA2-3A16-4B96-974C-A9C4215A20C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{611ED461-1A34-40A8-B892-2429D68B685C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{611ED461-1A34-40A8-B892-2429D68B685C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{611ED461-1A34-40A8-B892-2429D68B685C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{611ED461-1A34-40A8-B892-2429D68B685C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
