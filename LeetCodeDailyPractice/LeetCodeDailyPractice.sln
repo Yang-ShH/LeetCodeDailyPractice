@@ -13,13 +13,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CircularPermutation_1238", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinimumOperations_2357", "MinimumOperations_2357\MinimumOperations_2357.csproj", "{A5EEF87E-BE05-4611-BE28-2BCE33DDB9DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovesToMakeZigzag_1144", "MovesToMakeZigzag_1144\MovesToMakeZigzag_1144.csproj", "{364229A4-201D-42DB-BFC6-1FE733CC1455}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MovesToMakeZigzag_1144", "MovesToMakeZigzag_1144\MovesToMakeZigzag_1144.csproj", "{364229A4-201D-42DB-BFC6-1FE733CC1455}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeSimilarItems_2363", "MergeSimilarItems_2363\MergeSimilarItems_2363.csproj", "{60425CBE-3612-446A-88B2-7ECACE1FF342}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MergeSimilarItems_2363", "MergeSimilarItems_2363\MergeSimilarItems_2363.csproj", "{60425CBE-3612-446A-88B2-7ECACE1FF342}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LargestLocal_2373", "LargestLocal_2373\LargestLocal_2373.csproj", "{6826CFA2-3A16-4B96-974C-A9C4215A20C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LargestLocal_2373", "LargestLocal_2373\LargestLocal_2373.csproj", "{6826CFA2-3A16-4B96-974C-A9C4215A20C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintBin_Interview0520", "PrintBin_Interview0520\PrintBin_Interview0520.csproj", "{611ED461-1A34-40A8-B892-2429D68B685C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrintBin_Interview0520", "PrintBin_Interview0520\PrintBin_Interview0520.csproj", "{611ED461-1A34-40A8-B892-2429D68B685C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetFolderNames_1487", "GetFolderNames_1487\GetFolderNames_1487.csproj", "{5A40580F-870B-4EBA-A894-4497FC5EB1F8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{611ED461-1A34-40A8-B892-2429D68B685C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{611ED461-1A34-40A8-B892-2429D68B685C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{611ED461-1A34-40A8-B892-2429D68B685C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A40580F-870B-4EBA-A894-4497FC5EB1F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A40580F-870B-4EBA-A894-4497FC5EB1F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A40580F-870B-4EBA-A894-4497FC5EB1F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A40580F-870B-4EBA-A894-4497FC5EB1F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
