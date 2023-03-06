@@ -21,7 +21,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LargestLocal_2373", "Larges
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrintBin_Interview0520", "PrintBin_Interview0520\PrintBin_Interview0520.csproj", "{611ED461-1A34-40A8-B892-2429D68B685C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetFolderNames_1487", "GetFolderNames_1487\GetFolderNames_1487.csproj", "{5A40580F-870B-4EBA-A894-4497FC5EB1F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GetFolderNames_1487", "GetFolderNames_1487\GetFolderNames_1487.csproj", "{5A40580F-870B-4EBA-A894-4497FC5EB1F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumDeletions_1653", "MinimumDeletions_1653\MinimumDeletions_1653.csproj", "{789D6935-A876-4080-91B7-8802B3553F21}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{5A40580F-870B-4EBA-A894-4497FC5EB1F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A40580F-870B-4EBA-A894-4497FC5EB1F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A40580F-870B-4EBA-A894-4497FC5EB1F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{789D6935-A876-4080-91B7-8802B3553F21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{789D6935-A876-4080-91B7-8802B3553F21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{789D6935-A876-4080-91B7-8802B3553F21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{789D6935-A876-4080-91B7-8802B3553F21}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
