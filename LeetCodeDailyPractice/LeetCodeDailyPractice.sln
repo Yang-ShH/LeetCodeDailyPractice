@@ -27,9 +27,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinimumDeletions_1653", "Mi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaxValue_Offer47", "MaxValue_Offer47\MaxValue_Offer47.csproj", "{27FCD9C9-CEA3-4C01-8278-D9B3E027FCB8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumRecolors_2379", "MinimumRecolors_2379\MinimumRecolors_2379.csproj", "{84EA786B-1211-4FDD-9DDC-59841EF4F39F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinimumRecolors_2379", "MinimumRecolors_2379\MinimumRecolors_2379.csproj", "{84EA786B-1211-4FDD-9DDC-59841EF4F39F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinSubarray_1590", "MinSubarray_1590\MinSubarray_1590.csproj", "{830891B8-344A-4E9A-A2D2-B3BD569D53E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinSubarray_1590", "MinSubarray_1590\MinSubarray_1590.csproj", "{830891B8-344A-4E9A-A2D2-B3BD569D53E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestoreMatrix_1605", "RestoreMatrix_1605\RestoreMatrix_1605.csproj", "{15964091-DC77-4FE2-BF4C-7FA282FAAFDF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{830891B8-344A-4E9A-A2D2-B3BD569D53E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{830891B8-344A-4E9A-A2D2-B3BD569D53E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{830891B8-344A-4E9A-A2D2-B3BD569D53E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15964091-DC77-4FE2-BF4C-7FA282FAAFDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15964091-DC77-4FE2-BF4C-7FA282FAAFDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15964091-DC77-4FE2-BF4C-7FA282FAAFDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15964091-DC77-4FE2-BF4C-7FA282FAAFDF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
